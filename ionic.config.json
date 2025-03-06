@@ -1,0 +1,7 @@
+{
+  "name": "Examen-DariemYesca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
